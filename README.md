@@ -1,5 +1,7 @@
 <h1> E-Commerce Dataset Analysis </h1>
 
+E-commerce Customer Churn Analysis 
+
 This analysis project uses R inside Jupyter Notebook to create a thoorough analysis on the information provided by the dataset. The dataset itself contains statistics from a UK-based retail store such as customer information, product names, countries customers reside in, and unit prices/quantity sold.
 
 ![Alt text](785054-ecommerce-istock-020119.jpg)
